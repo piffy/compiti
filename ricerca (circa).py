@@ -1,4 +1,10 @@
-#per cambiare la distanza, spostare 1 e 2
+#L'idea è carina, ma ti propongo una variante che potrebbe essere più utile.
+# Invece di mettere 1 e 2, metti lo stesso numero. Magri posizionati a caso
+# Una volta trovati i due punti: stampa le coodinate  e la distanza, dopo di che modifica l'array 
+# in modo da collegare i due punti trovati. Stampa quindi l'array ottenuta. 
+# Così ti prepari a risolvere i labirinti.....
+
+
 import math as m
 test = [[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
